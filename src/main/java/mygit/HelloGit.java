@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("hello git4");
         System.out.println("master commit!");
         System.out.println("other commit!");
+        System.out.println("pull test!");
     }
 }
